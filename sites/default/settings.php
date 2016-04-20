@@ -213,13 +213,13 @@
  * @endcode
  */
 $databases = array (
-  'default' => 
+  'default' =>
   array (
-    'default' => 
+    'default' =>
     array (
       'database' => 'coffee',
       'username' => 'HeyConner',
-      'password' => '',
+      'password' => 'conner40',
       'host' => '127.0.0.1',
       'port' => '8889',
       'driver' => 'mysql',
